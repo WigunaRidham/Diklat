@@ -1,0 +1,10 @@
+
+
+NM*H=NP
+NP*B=PA
+
+JNPA= total PA
+NPA= JNPA:10000
+ 
+tambahkan kolom JNPA & NPA di tb nilai detail
+keterangan prosesa(awal & uts) lulus/ tidak ( uas)
